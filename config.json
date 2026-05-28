@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervalculate",
+        "uuid": 33183648,
+        "checksum": "g77uy0j"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
